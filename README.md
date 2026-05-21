@@ -41,7 +41,7 @@
 ### Step 1: Fork This GitHub Repository 
 
 ```bash
-git clone https://github.com/mikami520/AutoSeg4SinonasalCT.git
+git clone https://github.com/YuliangXiaoYLX/AutoSeg4SinonasalCT.git
 ```
 
 ### Step 2: Set Up Environment Using requirements.txt (virtual environment is recommended)
