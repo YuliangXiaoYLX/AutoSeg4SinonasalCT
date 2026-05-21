@@ -38,10 +38,10 @@
 
 ## Installation
 
-### Step 1: Fork This GitHub Repository 
+### Step 1: Clone This GitHub Repository 
 
 ```bash
-git clone https://github.com/YuliangXiaoYLX/AutoSeg4SinonasalCT.git
+git clone https://github.com/YuliangXiaoYLX/AutoSeg4SinonasalCT.git && cd AutoSeg4SinonasalCT
 ```
 
 ### Step 2: Set Up Environment Using requirements.txt (virtual environment is recommended)
